@@ -10,5 +10,5 @@ package com.gojek.bi.mavenproject2;
  * @author Arinda
  */
 public class TestClass {
-    
+		//test
 }
